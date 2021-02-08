@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an android project (Android studio , java,  mysql/php , firebase ) 
+- 🌱 I’m currently learning (prototype design with Adobe XD) 
+
+
+Thing I want to learn in 2021
+
+declare -A tech
+tech=("flutter" "html" "css" "javascript")
+Contact me here
+
+import static java.util.Map.entry;
+
+Map<String, String> contact = Map.ofEnteries(
+    entry("email", "abed.benamar@gmail.com"),
+    entry("twitter": "@alpazinou"),
+    entry("website": "not yet")
+);
+
