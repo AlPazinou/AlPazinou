@@ -1,9 +1,8 @@
 
 
-<!--
-**AlPazinou/AlPazinou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!
 
-### Hi there 👋
+ Hi there 👋
 
 - 🔭 I’m currently working on an android project (Android studio , java,  mysql/php , firebase ) 
 - 🌱 I’m currently learning (prototype design with Adobe XD) 
